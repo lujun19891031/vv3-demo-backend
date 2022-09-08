@@ -9,8 +9,8 @@ import (
 
 // smtp服务器配置
 var (
-	SmtpHost     = "smtp.263.net"
-	SmtpPort     = "25"
+	SmtpHost     = ""
+	SmtpPort     = ""
 	SmtpUser     = ""
 	SmtpPassword = ""
 )
