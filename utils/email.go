@@ -11,8 +11,8 @@ import (
 var (
 	SmtpHost     = "smtp.263.net"
 	SmtpPort     = "25"
-	SmtpUser     = "system@penaviconb.com"
-	SmtpPassword = "net263"
+	SmtpUser     = ""
+	SmtpPassword = ""
 )
 
 // 邮件发送
